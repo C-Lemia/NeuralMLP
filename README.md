@@ -53,10 +53,15 @@ Capaz de aprender padrões mais complexos, como XOR, permite que o modelo aprend
 ![Funções Lógicas](imgs/and,or,xor.png)
 
 Projeto/
+
 ├── modelo_logico.py # Treina e salva o modelo
+
 ├── jogo.py # Usa o modelo para simular decisões lógicas
+
 ├── modelo_logico.keras # Modelo treinado salvo
+
 ├── requirements.txt # Dependências do projeto
+
 └── README.md # Este arquivo
 
 ## O que o modelo aprende?
