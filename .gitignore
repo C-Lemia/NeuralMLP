@@ -1,0 +1,23 @@
+# Ignora o ambiente virtual
+venv/
+.env/
+
+# Ignora arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignora arquivos de log, cache e builds
+*.log
+*.h5
+*.keras
+*.ckpt
+*.tflite
+*.pb
+*.dll
+*.so
+
+# Ignora arquivos e pastas do sistema
+.DS_Store
+Thumbs.db
