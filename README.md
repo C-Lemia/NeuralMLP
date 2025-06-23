@@ -1,4 +1,4 @@
-# Meu Projeto Perceptron 
+# Rede neural simples (MLP) 
 
 Este projeto demonstra como uma **rede neural simples (MLP)** pode aprender as funções lógicas `AND`, `OR` e `XOR` — e como esse conhecimento pode ser usado para controlar ações em um pequeno **jogo de simulação** baseado em lógica binária.
 
